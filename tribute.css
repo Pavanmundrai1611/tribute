@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(241, 128, 62);
+}
+.div1{
+    text-align: center;
+    
+    color:black;
+    
+}
+.div2{
+    background-color: burlywood;
+    width: 90%;
+    margin:auto;
+    margin-top: 30px;
+    padding:20px;
+    font-size: 16px;
+}
+.img1{
+    border-radius: 80%;
+}
+.div3{
+    margin-top: 20px;
+margin-bottom: 30px;
+}
+span{font-size: 15px;
+    padding: 5px;
+    background-color: red;
+    color:white;
+
+}
+.div4{
+    background-color:peru;
+    margin:-10px;
+    text-align: center;
+    padding:20px;
+ 
+}
+.div5{margin:auto;
+    text-align: justify;
+    width:500px;
+}
+footer{margin:-15px;
+    background-color: red;
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
